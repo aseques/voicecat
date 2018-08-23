@@ -1,11 +1,9 @@
 # voicecat
-Catalan voice for Osmand . Veu catalana per a l'Osmand
+Catalan voice for Osmand . Veu catalana per a l'Osmand mentre esperem l'activació de la Pull request per part d'Osmand.
 
 Veus fetes amb el FestCat http://festcat.talp.cat/ca/
 
-# Instruccions d'instal·lació:
-
-Necessiteu:
+# Ingredients
 
 - Al vostre telèfon:
 
@@ -18,6 +16,8 @@ B. App Administrador d'Arxius amb possibilitat de servidor FTP (ES File Explorer
 C. navegador
 
 D. Client FTP
+
+# Instruccions d'instal·lació
 
 1. Baixar-se la carpeta ca d'aquest repositori al vostre ordinador. https://github.com/OSM-Catalan/voicecat
 2. Activar al mòbil el vostre servidor (ES File Explorer ,  Remot)
