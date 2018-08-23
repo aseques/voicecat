@@ -3,7 +3,7 @@ Catalan voice for Osmand . Veu catalana per a l'Osmand
 
 Veus fetes amb el FestCat http://festcat.talp.cat/ca/
 
-#Instruccions d'instal·lació:
+# Instruccions d'instal·lació:
 
 Necessiteu:
 
