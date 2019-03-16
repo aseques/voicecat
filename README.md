@@ -1,9 +1,20 @@
 # voicecat
-Catalan voice for Osmand . Veu catalana per a l'Osmand mentre esperem l'activació de la Pull request per part d'Osmand.
-
+Catalan voice for Osmand, Veu catalana per a l'Osmand
 Veus fetes amb el FestCat http://festcat.talp.cat/ca/
 
-# Ingredients
+## Com carregar l'idioma des de osmand directament
+Des que es van integrar aquestes locucions en el repositori de osmand ja no cal fer la instal·lació manual, ara es pot fer des del propi programa i només cal baixar les veus, per fer-ho:
+- Menú (les tres ratlles) > Baixa Mapes
+- Anem al final de la llista __Indicadors de veu (enregistrats, funcionalitats limitades)__
+- Allà descarreguem el català
+
+Per activar-lo
+- Menú (les tres ratlles) > Configuració
+- Paràmetres de navegació > triar el perfil que utilitzarem > Guiatge per veu (està cap al final) > Català
+
+## Càrrega manual de les veus en català
+
+### Ingredients
 
 - Al vostre telèfon:
 
@@ -17,7 +28,7 @@ C. navegador
 
 D. Client FTP
 
-# Instruccions d'instal·lació
+### Instruccions d'instal·lació
 
 1. Baixar-se la carpeta ca d'aquest repositori al vostre ordinador. https://github.com/OSM-Catalan/voicecat
 2. Activar al mòbil el vostre servidor (ES File Explorer ,  Remot)
